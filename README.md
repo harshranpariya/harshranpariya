@@ -34,7 +34,7 @@
   <img   alt="Harsh's Portfolio website" align="center" style="vertical-align:bottom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />
 </a>
 <a  href="https://twitter.com/harsh_ranpariya">
-  <img  style="vertical-align:bottom" alt="Harsh's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  style="vertical-align:bottom" align="center" alt="Harsh's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 
