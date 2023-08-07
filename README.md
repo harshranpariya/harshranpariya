@@ -8,9 +8,9 @@
   </samp>
   <br/>
   <br/>
-  <a href="https://github.com/harshranpariya">
+<!--   <a href="https://github.com/harshranpariya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshranpariya&show_icons=true&theme=light&line_height=27" alt="Harsh's github stats"/>
-</a>
+</a> -->
 </p>
 
 ## 🔗 &nbsp;**Connect with me**
